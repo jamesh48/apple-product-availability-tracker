@@ -1,12 +1,14 @@
 import axios from "axios";
 import { ProductApiResponse, ReturningData, StoreApiResponse, TransformedResponse } from "./types";
+require("dotenv").config({ path: "./.env" });
+
 const hotList = ["CO", "TX", "UT"];
 const targetItemSku = "MK0U3LL/A";
 
 (() => {
   setInterval(async () => {
     await checkProductAvailability(targetItemSku);
-  }, 90000);
+  }, 10000);
 })();
 
 export const sendNotification = async (byState: ReturningData[], stateToTest: string) => {
