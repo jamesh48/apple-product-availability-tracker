@@ -8,7 +8,7 @@ const targetItemSku = "MK0U3LL/A";
 (() => {
   setInterval(async () => {
     await checkProductAvailability(targetItemSku);
-  }, 10000);
+  }, 90000);
 })();
 
 export const sendNotification = async (byState: ReturningData[], stateToTest: string) => {
