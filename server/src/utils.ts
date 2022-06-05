@@ -1,6 +1,6 @@
 import axios from "axios";
 import { ProductApiResponse, ReturningData, StoreApiResponse, TransformedResponse } from "./types";
-require("dotenv").config({ path: "./.env" });
+require("dotenv").config({ path: "./server/.env" });
 
 const hotList = ["CO", "TX", "UT"];
 const targetItemSku = "MK0U3LL/A";
