@@ -4,7 +4,7 @@ module.exports = {
     production: {
       user: "ubuntu",
       host: "ec2-3-14-206-30.us-east-2.compute.amazonaws.com",
-      key: "~/.ssh/tutorial-2.pem",
+      key: "./AWS_Login/apple-product-tracker.pem",
       ref: "origin/main",
       repo: "https://github.com/jamesh48/apple-product-availability-tracker.git",
       path: "/home/ubuntu/apple-product-availability-tracker",
