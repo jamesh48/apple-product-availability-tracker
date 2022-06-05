@@ -8,7 +8,8 @@ module.exports = {
       ref: "origin/main",
       repo: "https://github.com/jamesh48/apple-product-availability-tracker.git",
       path: "/home/ubuntu/apple-product-tracker",
-      "post-deploy": "npm install && pm2 startOrRestart ecosystem.config.js",
+      "post-deploy":
+        "npm install && npm run build && cd ./server && npm install && cd ../ && pm2 startOrRestart ecosystem.config.js",
     },
   },
 };

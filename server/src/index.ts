@@ -1,6 +1,7 @@
 import express from "express";
 import axios from "axios";
 import cors from "cors";
+import path from "path";
 import { ProductApiResponse, ReturningData, StoreApiResponse, TransformedResponse } from "./types";
 import { sendNotification } from "./utils";
 require("dotenv").config({ path: "./.env" });
@@ -8,6 +9,7 @@ const app = express();
 
 const hotList = ["CO", "UT", "NM"];
 app.use(cors());
+app.use(express.static(path.resolve(__dirname, "../../build")));
 
 app.get("/checkProductAvailability", async ({ query: { productSku } }, res) => {
   try {
@@ -102,6 +104,10 @@ app.get("/checkProductAvailability", async ({ query: { productSku } }, res) => {
     console.log(err.message);
     res.sendStatus(500);
   }
+});
+
+app.get("/", (req, res) => {
+  res.send("ok");
 });
 
 app.listen(3001, () => {
