@@ -7,7 +7,7 @@ module.exports = {
       key: "./AWS_Login/apple-product-tracker.pem",
       ref: "origin/main",
       repo: "https://github.com/jamesh48/apple-product-availability-tracker.git",
-      path: "/home/ubuntu/apple-product-availability-tracker",
+      path: "/home/ubuntu",
       "post-deploy": "npm install && pm2 startOrRestart ecosystem.config.js",
     },
   },
