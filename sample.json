@@ -1,0 +1,1371 @@
+{
+  "head": {
+    "status": "200",
+    "data": {}
+  },
+  "body": {
+    "content": {
+      "pickupMessage": {
+        "stores": [
+          {
+            "storeEmail": "parkmeadows@apple.com",
+            "storeName": "Park Meadows",
+            "reservationUrl": "http://www.apple.com/retail/parkmeadows",
+            "makeReservationUrl": "http://www.apple.com/retail/parkmeadows",
+            "state": "CO",
+            "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R228.png?resize=828:*&output-format=jpg",
+            "country": "US",
+            "city": "Lone Tree",
+            "storeNumber": "R228",
+            "partsAvailability": {
+              "MK0U3LL/A": {
+                "storePickEligible": true,
+                "storeSearchEnabled": true,
+                "storeSelectionEnabled": false,
+                "storePickupQuote": "Apple Store Pickup is currently unavailable",
+                "pickupSearchQuote": "Currently unavailable",
+                "storePickupLabel": "Pickup:",
+                "partNumber": "MK0U3LL/A",
+                "purchaseOption": "",
+                "ctoOptions": "",
+                "storePickupLinkText": "Check availability",
+                "storePickupProductTitle": "Studio Display - Standard glass - Tilt-adjustable stand",
+                "pickupDisplay": "ineligible",
+                "pickupType": "In-Store or Curbside Pickup"
+              }
+            },
+            "phoneNumber": "303-256 1501",
+            "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+            "address": {
+              "address": "Apple Park Meadows",
+              "address3": null,
+              "address2": "8405 Park Meadows Center Drv",
+              "postalCode": "80124"
+            },
+            "hoursUrl": "http://www.apple.com/retail/parkmeadows",
+            "directionsUrl": "http://www.apple.com/retail/parkmeadows",
+            "storeHours": {
+              "storeHoursText": "Store Hours",
+              "bopisPickupDays": "Days",
+              "bopisPickupHours": "Hours",
+              "hours": [
+                {
+                  "storeTimings": "10:00 AM-8:00 PM",
+                  "storeDays": "Mon-Sat:"
+                },
+                {
+                  "storeTimings": "11:00 AM-6:00 PM",
+                  "storeDays": "Sun:"
+                }
+              ]
+            },
+            "storelatitude": 39.562176,
+            "storelongitude": -104.875562,
+            "storedistance": 5.42,
+            "storeDistanceWithUnit": "5.42 mi",
+            "storeDistanceVoText": "5.42 mi from 80124",
+            "retailStore": {
+              "storeNumber": "R228",
+              "storeUniqueId": "R228",
+              "name": "Park Meadows",
+              "storeTypeKey": "1",
+              "storeSubTypeKey": "0",
+              "storeType": "APPLESTORE_DEFAULT",
+              "phoneNumber": "303-256 1501",
+              "email": "parkmeadows@apple.com",
+              "carrierCode": null,
+              "locationType": null,
+              "latitude": 39.562176,
+              "longitude": -104.875562,
+              "address": {
+                "city": "Lone Tree",
+                "companyName": "Apple Park Meadows",
+                "countryCode": "US",
+                "county": null,
+                "district": null,
+                "geoCode": null,
+                "label": null,
+                "languageCode": "US-EN",
+                "mailStop": null,
+                "postalCode": "80124",
+                "province": null,
+                "state": "CO",
+                "street": "8405 Park Meadows Center Drv",
+                "street2": null,
+                "street3": null,
+                "suburb": null,
+                "type": "SHIPPING",
+                "addrSourceType": null,
+                "outsideCityFlag": null,
+                "daytimePhoneAreaCode": null,
+                "eveningPhoneAreaCode": null,
+                "daytimePhone": "303-256 1501",
+                "fullPhoneNumber": null,
+                "eveningPhone": null,
+                "emailAddress": null,
+                "firstName": null,
+                "lastName": null,
+                "suffix": null,
+                "lastNamePhonetic": null,
+                "firstNamePhonetic": null,
+                "title": null,
+                "businessAddress": false,
+                "uuid": "a5ae4cb9-6ceb-43d3-acbd-f788627f43ab",
+                "mobilePhone": null,
+                "mobilePhoneAreaCode": null,
+                "cityStateZip": null,
+                "daytimePhoneSelected": false,
+                "middleName": null,
+                "residenceStatus": null,
+                "moveInDate": null,
+                "subscriberId": null,
+                "locationType": null,
+                "carrierCode": null,
+                "metadata": {},
+                "verificationState": "UN_VERIFIED",
+                "expiration": null,
+                "markForDeletion": false,
+                "primaryAddress": false,
+                "fullEveningPhone": null,
+                "fullDaytimePhone": "303-256 1501",
+                "correctionResult": null,
+                "twoLineAddress": "8405 Park Meadows Center Drv,\nLone Tree, CO, 80124",
+                "addressVerified": false
+              },
+              "urlKey": null,
+              "directionsUrl": "http://www.apple.com/retail/parkmeadows",
+              "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R228.png?resize=828:*&output-format=jpg",
+              "makeReservationUrl": null,
+              "hoursAndInfoUrl": "http://www.apple.com/retail/parkmeadows",
+              "storeHours": [
+                {
+                  "storeDays": "Mon-Sat",
+                  "voStoreDays": "Monday-Saturday",
+                  "storeTimings": "10:00 AM-8:00 PM"
+                },
+                {
+                  "storeDays": "Sun",
+                  "voStoreDays": "Sunday",
+                  "storeTimings": "11:00 AM-6:00 PM"
+                }
+              ],
+              "storeHolidays": [],
+              "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R228.png?resize=828:*&output-format=jpg",
+              "distance": 5.42,
+              "distanceUnit": "mi",
+              "distanceWithUnit": "5.42 mi",
+              "timezone": "America/Denver",
+              "storeIsActive": true,
+              "lastUpdated": 0.0,
+              "lastFetched": 1654384240622,
+              "dateStamp": "04-Jun-2022",
+              "distanceSeparator": ".",
+              "nextAvailableDate": null,
+              "storeHolidayLookAheadWindow": 7,
+              "driveDistanceWithUnit": null,
+              "driveDistanceInMeters": null,
+              "dynamicAttributes": {},
+              "storePickupMethodByType": {
+                "CURBSIDE": {
+                  "type": "CURBSIDE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 39.56282,
+                    "lon": -104.874863
+                  },
+                  "typeDirection": {
+                    "directionByLocale": {
+                      "en_US": "When you arrive at Park Meadows Mall, proceed to Curbside Pickup Zone A on the eastern side of the mall. Curbside Pickup Zone A is between Crate & Barrel and L.L. Bean. Proceed towards the yellow and blue Curbside Pickup signs marking the dedicated parking spaces."
+                    }
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": {
+                      "en_US": "When you arrive at Park Meadows Mall, proceed to Curbside Pickup Zone A on the eastern side of the mall. Curbside Pickup Zone A is between Crate & Barrel and L.L. Bean. Proceed towards the yellow and blue Curbside Pickup signs marking the dedicated parking spaces."
+                    }
+                  }
+                },
+                "INSTORE": {
+                  "type": "INSTORE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 39.562176,
+                    "lon": -104.875562
+                  },
+                  "typeDirection": {
+                    "directionByLocale": null
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": null
+                  }
+                }
+              },
+              "storeTimings": null,
+              "availableNow": true
+            },
+            "storelistnumber": 1,
+            "storeListNumber": 1,
+            "pickupOptionsDetails": {
+              "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+              "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+              "pickupOptions": [
+                {
+                  "pickupOptionTitle": "In-Store",
+                  "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                  "index": 1
+                },
+                {
+                  "pickupOptionTitle": "Curbside",
+                  "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                  "index": 2
+                }
+              ]
+            },
+            "rank": 1
+          },
+          {
+            "storeEmail": "cherrycreek@apple.com",
+            "storeName": "Cherry Creek",
+            "reservationUrl": "http://www.apple.com/retail/cherrycreek",
+            "makeReservationUrl": "http://www.apple.com/retail/cherrycreek",
+            "state": "CO",
+            "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R047.png?resize=828:*&output-format=jpg",
+            "country": "US",
+            "city": "Denver",
+            "storeNumber": "R047",
+            "partsAvailability": {
+              "MK0U3LL/A": {
+                "storePickEligible": true,
+                "storeSearchEnabled": true,
+                "storeSelectionEnabled": false,
+                "storePickupQuote": "Apple Store Pickup is currently unavailable",
+                "pickupSearchQuote": "Currently unavailable",
+                "storePickupLabel": "Pickup:",
+                "partNumber": "MK0U3LL/A",
+                "purchaseOption": "",
+                "ctoOptions": "",
+                "storePickupLinkText": "Check availability",
+                "storePickupProductTitle": "Studio Display - Standard glass - Tilt-adjustable stand",
+                "pickupDisplay": "ineligible",
+                "pickupType": "In-Store or Curbside Pickup"
+              }
+            },
+            "phoneNumber": "303-583 7310",
+            "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+            "address": {
+              "address": "Apple Cherry Creek",
+              "address3": null,
+              "address2": "3000 E 1st Avenue",
+              "postalCode": "80206"
+            },
+            "hoursUrl": "http://www.apple.com/retail/cherrycreek",
+            "directionsUrl": "http://www.apple.com/retail/cherrycreek",
+            "storeHours": {
+              "storeHoursText": "Store Hours",
+              "bopisPickupDays": "Days",
+              "bopisPickupHours": "Hours",
+              "hours": [
+                {
+                  "storeTimings": "11:00 AM-6:00 PM",
+                  "storeDays": "Sun:"
+                },
+                {
+                  "storeTimings": "10:00 AM-9:00 PM",
+                  "storeDays": "Mon-Sat:"
+                }
+              ]
+            },
+            "storelatitude": 39.717437,
+            "storelongitude": -104.95492,
+            "storedistance": 6.21,
+            "storeDistanceWithUnit": "6.21 mi",
+            "storeDistanceVoText": "6.21 mi from 80206",
+            "retailStore": {
+              "storeNumber": "R047",
+              "storeUniqueId": "R047",
+              "name": "Cherry Creek",
+              "storeTypeKey": "1",
+              "storeSubTypeKey": "0",
+              "storeType": "APPLESTORE_DEFAULT",
+              "phoneNumber": "303-583 7310",
+              "email": "cherrycreek@apple.com",
+              "carrierCode": null,
+              "locationType": null,
+              "latitude": 39.717437,
+              "longitude": -104.95492,
+              "address": {
+                "city": "Denver",
+                "companyName": "Apple Cherry Creek",
+                "countryCode": "US",
+                "county": null,
+                "district": null,
+                "geoCode": null,
+                "label": null,
+                "languageCode": "US-EN",
+                "mailStop": null,
+                "postalCode": "80206",
+                "province": null,
+                "state": "CO",
+                "street": "3000 E 1st Avenue",
+                "street2": null,
+                "street3": null,
+                "suburb": null,
+                "type": "SHIPPING",
+                "addrSourceType": null,
+                "outsideCityFlag": null,
+                "daytimePhoneAreaCode": null,
+                "eveningPhoneAreaCode": null,
+                "daytimePhone": "303-583 7310",
+                "fullPhoneNumber": null,
+                "eveningPhone": null,
+                "emailAddress": null,
+                "firstName": null,
+                "lastName": null,
+                "suffix": null,
+                "lastNamePhonetic": null,
+                "firstNamePhonetic": null,
+                "title": null,
+                "businessAddress": false,
+                "uuid": "61b4c9c9-6f69-4181-b7a4-0d3824f3ced6",
+                "mobilePhone": null,
+                "mobilePhoneAreaCode": null,
+                "cityStateZip": null,
+                "daytimePhoneSelected": false,
+                "middleName": null,
+                "residenceStatus": null,
+                "moveInDate": null,
+                "subscriberId": null,
+                "locationType": null,
+                "carrierCode": null,
+                "metadata": {},
+                "verificationState": "UN_VERIFIED",
+                "expiration": null,
+                "markForDeletion": false,
+                "primaryAddress": false,
+                "fullEveningPhone": null,
+                "fullDaytimePhone": "303-583 7310",
+                "correctionResult": null,
+                "twoLineAddress": "3000 E 1st Avenue,\nDenver, CO, 80206",
+                "addressVerified": false
+              },
+              "urlKey": null,
+              "directionsUrl": "http://www.apple.com/retail/cherrycreek",
+              "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R047.png?resize=828:*&output-format=jpg",
+              "makeReservationUrl": null,
+              "hoursAndInfoUrl": "http://www.apple.com/retail/cherrycreek",
+              "storeHours": [
+                {
+                  "storeDays": "Sun",
+                  "voStoreDays": "Sunday",
+                  "storeTimings": "11:00 AM-6:00 PM"
+                },
+                {
+                  "storeDays": "Mon-Sat",
+                  "voStoreDays": "Monday-Saturday",
+                  "storeTimings": "10:00 AM-9:00 PM"
+                }
+              ],
+              "storeHolidays": [],
+              "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R047.png?resize=828:*&output-format=jpg",
+              "distance": 6.21,
+              "distanceUnit": "mi",
+              "distanceWithUnit": "6.21 mi",
+              "timezone": "America/Denver",
+              "storeIsActive": true,
+              "lastUpdated": 0.0,
+              "lastFetched": 1654384240622,
+              "dateStamp": "04-Jun-2022",
+              "distanceSeparator": ".",
+              "nextAvailableDate": null,
+              "storeHolidayLookAheadWindow": 7,
+              "driveDistanceWithUnit": null,
+              "driveDistanceInMeters": null,
+              "dynamicAttributes": {},
+              "storePickupMethodByType": {
+                "CURBSIDE": {
+                  "type": "CURBSIDE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 39.717329,
+                    "lon": -104.954615
+                  },
+                  "typeDirection": {
+                    "directionByLocale": {
+                      "en_US": "When you arrive at Cherry Creek Shopping Center, proceed to the mall entrance between Nordstrom and Urban Outfitters. From East First Avenue, turn south on Detroit Street into the parking area. Follow the green Curbside Pickup signs toward the dedicated parking spots.   *Need some help? Call us at (303) 583-7310 and tell us you’ve arrive at curbside.*"
+                    }
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": {
+                      "en_US": "When you arrive at Cherry Creek Shopping Center, proceed to the mall entrance between Nordstrom and Urban Outfitters. From East First Avenue, turn south on Detroit Street into the parking area. Follow the green Curbside Pickup signs toward the dedicated parking spots.   *Need some help? Call us at (303) 583-7310 and tell us you’ve arrive at curbside.*"
+                    }
+                  }
+                },
+                "INSTORE": {
+                  "type": "INSTORE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 39.717437,
+                    "lon": -104.95492
+                  },
+                  "typeDirection": {
+                    "directionByLocale": null
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": null
+                  }
+                }
+              },
+              "storeTimings": null,
+              "availableNow": true
+            },
+            "storelistnumber": 2,
+            "storeListNumber": 2,
+            "pickupOptionsDetails": {
+              "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+              "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+              "pickupOptions": [
+                {
+                  "pickupOptionTitle": "In-Store",
+                  "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                  "index": 1
+                },
+                {
+                  "pickupOptionTitle": "Curbside",
+                  "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                  "index": 2
+                }
+              ]
+            },
+            "rank": 2
+          },
+          {
+            "storeEmail": "aspengrove@apple.com",
+            "storeName": "Aspen Grove",
+            "reservationUrl": "http://www.apple.com/retail/aspengrove",
+            "makeReservationUrl": "http://www.apple.com/retail/aspengrove",
+            "state": "CO",
+            "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R030.png?resize=828:*&output-format=jpg",
+            "country": "US",
+            "city": "Littleton",
+            "storeNumber": "R030",
+            "partsAvailability": {
+              "MK0U3LL/A": {
+                "storePickEligible": true,
+                "storeSearchEnabled": true,
+                "storeSelectionEnabled": false,
+                "storePickupQuote": "Apple Store Pickup is currently unavailable",
+                "pickupSearchQuote": "Currently unavailable",
+                "storePickupLabel": "Pickup:",
+                "partNumber": "MK0U3LL/A",
+                "purchaseOption": "",
+                "ctoOptions": "",
+                "storePickupLinkText": "Check availability",
+                "storePickupProductTitle": "Studio Display - Standard glass - Tilt-adjustable stand",
+                "pickupDisplay": "ineligible",
+                "pickupType": "In-Store or Curbside Pickup"
+              }
+            },
+            "phoneNumber": "303-256 2580",
+            "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+            "address": {
+              "address": "Apple Aspen Grove",
+              "address3": null,
+              "address2": "7301 S Santa Fe Drive",
+              "postalCode": "80120"
+            },
+            "hoursUrl": "http://www.apple.com/retail/aspengrove",
+            "directionsUrl": "http://www.apple.com/retail/aspengrove",
+            "storeHours": {
+              "storeHoursText": "Store Hours",
+              "bopisPickupDays": "Days",
+              "bopisPickupHours": "Hours",
+              "hours": [
+                {
+                  "storeTimings": "10:00 AM-8:00 PM",
+                  "storeDays": "Fri-Sat:"
+                },
+                {
+                  "storeTimings": "11:00 AM-6:00 PM",
+                  "storeDays": "Sun:"
+                },
+                {
+                  "storeTimings": "10:00 AM-7:00 PM",
+                  "storeDays": "Mon-Thu:"
+                }
+              ]
+            },
+            "storelatitude": 39.585168,
+            "storelongitude": -105.026,
+            "storedistance": 7.69,
+            "storeDistanceWithUnit": "7.69 mi",
+            "storeDistanceVoText": "7.69 mi from 80120",
+            "retailStore": {
+              "storeNumber": "R030",
+              "storeUniqueId": "R030",
+              "name": "Aspen Grove",
+              "storeTypeKey": "1",
+              "storeSubTypeKey": "0",
+              "storeType": "APPLESTORE_DEFAULT",
+              "phoneNumber": "303-256 2580",
+              "email": "aspengrove@apple.com",
+              "carrierCode": null,
+              "locationType": null,
+              "latitude": 39.585168,
+              "longitude": -105.026,
+              "address": {
+                "city": "Littleton",
+                "companyName": "Apple Aspen Grove",
+                "countryCode": "US",
+                "county": null,
+                "district": null,
+                "geoCode": null,
+                "label": null,
+                "languageCode": "US-EN",
+                "mailStop": null,
+                "postalCode": "80120",
+                "province": null,
+                "state": "CO",
+                "street": "7301 S Santa Fe Drive",
+                "street2": null,
+                "street3": null,
+                "suburb": null,
+                "type": "SHIPPING",
+                "addrSourceType": null,
+                "outsideCityFlag": null,
+                "daytimePhoneAreaCode": null,
+                "eveningPhoneAreaCode": null,
+                "daytimePhone": "303-256 2580",
+                "fullPhoneNumber": null,
+                "eveningPhone": null,
+                "emailAddress": null,
+                "firstName": null,
+                "lastName": null,
+                "suffix": null,
+                "lastNamePhonetic": null,
+                "firstNamePhonetic": null,
+                "title": null,
+                "businessAddress": false,
+                "uuid": "d135800b-2a45-41e8-b4b1-0307d97c93b3",
+                "mobilePhone": null,
+                "mobilePhoneAreaCode": null,
+                "cityStateZip": null,
+                "daytimePhoneSelected": false,
+                "middleName": null,
+                "residenceStatus": null,
+                "moveInDate": null,
+                "subscriberId": null,
+                "locationType": null,
+                "carrierCode": null,
+                "metadata": {},
+                "verificationState": "UN_VERIFIED",
+                "expiration": null,
+                "markForDeletion": false,
+                "primaryAddress": false,
+                "fullEveningPhone": null,
+                "fullDaytimePhone": "303-256 2580",
+                "correctionResult": null,
+                "twoLineAddress": "7301 S Santa Fe Drive,\nLittleton, CO, 80120",
+                "addressVerified": false
+              },
+              "urlKey": null,
+              "directionsUrl": "http://www.apple.com/retail/aspengrove",
+              "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R030.png?resize=828:*&output-format=jpg",
+              "makeReservationUrl": null,
+              "hoursAndInfoUrl": "http://www.apple.com/retail/aspengrove",
+              "storeHours": [
+                {
+                  "storeDays": "Fri-Sat",
+                  "voStoreDays": "Friday-Saturday",
+                  "storeTimings": "10:00 AM-8:00 PM"
+                },
+                {
+                  "storeDays": "Sun",
+                  "voStoreDays": "Sunday",
+                  "storeTimings": "11:00 AM-6:00 PM"
+                },
+                {
+                  "storeDays": "Mon-Thu",
+                  "voStoreDays": "Monday-Thursday",
+                  "storeTimings": "10:00 AM-7:00 PM"
+                }
+              ],
+              "storeHolidays": [],
+              "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R030.png?resize=828:*&output-format=jpg",
+              "distance": 7.69,
+              "distanceUnit": "mi",
+              "distanceWithUnit": "7.69 mi",
+              "timezone": "America/Denver",
+              "storeIsActive": true,
+              "lastUpdated": 0.0,
+              "lastFetched": 1654384240623,
+              "dateStamp": "04-Jun-2022",
+              "distanceSeparator": ".",
+              "nextAvailableDate": null,
+              "storeHolidayLookAheadWindow": 7,
+              "driveDistanceWithUnit": null,
+              "driveDistanceInMeters": null,
+              "dynamicAttributes": {},
+              "storePickupMethodByType": {
+                "CURBSIDE": {
+                  "type": "CURBSIDE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 39.585279,
+                    "lon": -105.026003
+                  },
+                  "typeDirection": {
+                    "directionByLocale": {
+                      "en_US": "When you arrive at the Aspen Grove Mall from Santa Fe Drive, proceed to the first four-way stop and go straight. Take a left at the next four way stop and look for the white and green Curbside Pickup signs on your left.    *Need some help? Call us at (303) 256-2580 and tell us you’ve arrive at curbside.*"
+                    }
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": {
+                      "en_US": "When you arrive at the Aspen Grove Mall from Santa Fe Drive, proceed to the first four-way stop and go straight. Take a left at the next four way stop and look for the white and green Curbside Pickup signs on your left.    *Need some help? Call us at (303) 256-2580 and tell us you’ve arrive at curbside.*"
+                    }
+                  }
+                },
+                "INSTORE": {
+                  "type": "INSTORE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 39.585168,
+                    "lon": -105.026
+                  },
+                  "typeDirection": {
+                    "directionByLocale": null
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": null
+                  }
+                }
+              },
+              "storeTimings": null,
+              "availableNow": true
+            },
+            "storelistnumber": 3,
+            "storeListNumber": 3,
+            "pickupOptionsDetails": {
+              "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+              "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+              "pickupOptions": [
+                {
+                  "pickupOptionTitle": "In-Store",
+                  "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                  "index": 1
+                },
+                {
+                  "pickupOptionTitle": "Curbside",
+                  "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                  "index": 2
+                }
+              ]
+            },
+            "rank": 3
+          },
+          {
+            "storeEmail": "flatironcrossing@apple.com",
+            "storeName": "FlatIron Crossing",
+            "reservationUrl": "http://www.apple.com/retail/flatironcrossing",
+            "makeReservationUrl": "http://www.apple.com/retail/flatironcrossing",
+            "state": "CO",
+            "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R182.png?resize=828:*&output-format=jpg",
+            "country": "US",
+            "city": "Broomfield",
+            "storeNumber": "R182",
+            "partsAvailability": {
+              "MK0U3LL/A": {
+                "storePickEligible": true,
+                "storeSearchEnabled": true,
+                "storeSelectionEnabled": false,
+                "storePickupQuote": "Apple Store Pickup is currently unavailable",
+                "pickupSearchQuote": "Currently unavailable",
+                "storePickupLabel": "Pickup:",
+                "partNumber": "MK0U3LL/A",
+                "purchaseOption": "",
+                "ctoOptions": "",
+                "storePickupLinkText": "Check availability",
+                "storePickupProductTitle": "Studio Display - Standard glass - Tilt-adjustable stand",
+                "pickupDisplay": "ineligible",
+                "pickupType": "In-Store or Curbside Pickup"
+              }
+            },
+            "phoneNumber": "720-479 0465",
+            "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+            "address": {
+              "address": "Apple FlatIron Crossing",
+              "address3": null,
+              "address2": "One West Flatiron Crossing Dr",
+              "postalCode": "80021"
+            },
+            "hoursUrl": "http://www.apple.com/retail/flatironcrossing",
+            "directionsUrl": "http://www.apple.com/retail/flatironcrossing",
+            "storeHours": {
+              "storeHoursText": "Store Hours",
+              "bopisPickupDays": "Days",
+              "bopisPickupHours": "Hours",
+              "hours": [
+                {
+                  "storeTimings": "10:00 AM-8:00 PM",
+                  "storeDays": "Mon-Sat:"
+                },
+                {
+                  "storeTimings": "11:00 AM-6:00 PM",
+                  "storeDays": "Sun:"
+                }
+              ]
+            },
+            "storelatitude": 39.933409903017,
+            "storelongitude": -105.1329389226,
+            "storedistance": 23.86,
+            "storeDistanceWithUnit": "23.86 mi",
+            "storeDistanceVoText": "23.86 mi from 80021",
+            "retailStore": {
+              "storeNumber": "R182",
+              "storeUniqueId": "R182",
+              "name": "FlatIron Crossing",
+              "storeTypeKey": "1",
+              "storeSubTypeKey": "0",
+              "storeType": "APPLESTORE_DEFAULT",
+              "phoneNumber": "720-479 0465",
+              "email": "flatironcrossing@apple.com",
+              "carrierCode": null,
+              "locationType": null,
+              "latitude": 39.933409903017,
+              "longitude": -105.1329389226,
+              "address": {
+                "city": "Broomfield",
+                "companyName": "Apple FlatIron Crossing",
+                "countryCode": "US",
+                "county": null,
+                "district": null,
+                "geoCode": null,
+                "label": null,
+                "languageCode": "US-EN",
+                "mailStop": null,
+                "postalCode": "80021",
+                "province": null,
+                "state": "CO",
+                "street": "One West Flatiron Crossing Dr",
+                "street2": null,
+                "street3": null,
+                "suburb": null,
+                "type": "SHIPPING",
+                "addrSourceType": null,
+                "outsideCityFlag": null,
+                "daytimePhoneAreaCode": null,
+                "eveningPhoneAreaCode": null,
+                "daytimePhone": "720-479 0465",
+                "fullPhoneNumber": null,
+                "eveningPhone": null,
+                "emailAddress": null,
+                "firstName": null,
+                "lastName": null,
+                "suffix": null,
+                "lastNamePhonetic": null,
+                "firstNamePhonetic": null,
+                "title": null,
+                "businessAddress": false,
+                "uuid": "d80aa03a-f1f1-470e-a7f9-de6dd8c67e61",
+                "mobilePhone": null,
+                "mobilePhoneAreaCode": null,
+                "cityStateZip": null,
+                "daytimePhoneSelected": false,
+                "middleName": null,
+                "residenceStatus": null,
+                "moveInDate": null,
+                "subscriberId": null,
+                "locationType": null,
+                "carrierCode": null,
+                "metadata": {},
+                "verificationState": "UN_VERIFIED",
+                "expiration": null,
+                "markForDeletion": false,
+                "primaryAddress": false,
+                "fullEveningPhone": null,
+                "fullDaytimePhone": "720-479 0465",
+                "correctionResult": null,
+                "twoLineAddress": "One West Flatiron Crossing Dr,\nBroomfield, CO, 80021",
+                "addressVerified": false
+              },
+              "urlKey": null,
+              "directionsUrl": "http://www.apple.com/retail/flatironcrossing",
+              "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R182.png?resize=828:*&output-format=jpg",
+              "makeReservationUrl": null,
+              "hoursAndInfoUrl": "http://www.apple.com/retail/flatironcrossing",
+              "storeHours": [
+                {
+                  "storeDays": "Mon-Sat",
+                  "voStoreDays": "Monday-Saturday",
+                  "storeTimings": "10:00 AM-8:00 PM"
+                },
+                {
+                  "storeDays": "Sun",
+                  "voStoreDays": "Sunday",
+                  "storeTimings": "11:00 AM-6:00 PM"
+                }
+              ],
+              "storeHolidays": [],
+              "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R182.png?resize=828:*&output-format=jpg",
+              "distance": 23.86,
+              "distanceUnit": "mi",
+              "distanceWithUnit": "23.86 mi",
+              "timezone": "America/Denver",
+              "storeIsActive": true,
+              "lastUpdated": 0.0,
+              "lastFetched": 1654384240623,
+              "dateStamp": "04-Jun-2022",
+              "distanceSeparator": ".",
+              "nextAvailableDate": null,
+              "storeHolidayLookAheadWindow": 7,
+              "driveDistanceWithUnit": null,
+              "driveDistanceInMeters": null,
+              "dynamicAttributes": {},
+              "storePickupMethodByType": {
+                "CURBSIDE": {
+                  "type": "CURBSIDE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 39.9318,
+                    "lon": -105.1314
+                  },
+                  "typeDirection": {
+                    "directionByLocale": {
+                      "en_US": "When you arrive at Flatiron Crossing, proceed to the Retail Pickup Area near California Pizza Kitchen, next to the Dillards. Follow the mall curbside pickup signs towards the designated pickup spaces are those closest to the mall entrance next to California Pizza Kitchen."
+                    }
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": {
+                      "en_US": "When you arrive at Flatiron Crossing, proceed to the Retail Pickup Area near California Pizza Kitchen, next to the Dillards. Follow the mall curbside pickup signs towards the designated pickup spaces are those closest to the mall entrance next to California Pizza Kitchen."
+                    }
+                  }
+                },
+                "INSTORE": {
+                  "type": "INSTORE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 39.9334099030165,
+                    "lon": -105.1329389226
+                  },
+                  "typeDirection": {
+                    "directionByLocale": null
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": null
+                  }
+                }
+              },
+              "storeTimings": null,
+              "availableNow": true
+            },
+            "storelistnumber": 4,
+            "storeListNumber": 4,
+            "pickupOptionsDetails": {
+              "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+              "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+              "pickupOptions": [
+                {
+                  "pickupOptionTitle": "In-Store",
+                  "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                  "index": 1
+                },
+                {
+                  "pickupOptionTitle": "Curbside",
+                  "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                  "index": 2
+                }
+              ]
+            },
+            "rank": 4
+          },
+          {
+            "storeEmail": "twentyninthstreet@apple.com",
+            "storeName": "Twenty Ninth Street",
+            "reservationUrl": "http://www.apple.com/retail/twentyninthstreet",
+            "makeReservationUrl": "http://www.apple.com/retail/twentyninthstreet",
+            "state": "CO",
+            "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R172.png?resize=828:*&output-format=jpg",
+            "country": "US",
+            "city": "Boulder",
+            "storeNumber": "R172",
+            "partsAvailability": {
+              "MK0U3LL/A": {
+                "storePickEligible": true,
+                "storeSearchEnabled": true,
+                "storeSelectionEnabled": false,
+                "storePickupQuote": "Apple Store Pickup is currently unavailable",
+                "pickupSearchQuote": "Currently unavailable",
+                "storePickupLabel": "Pickup:",
+                "partNumber": "MK0U3LL/A",
+                "purchaseOption": "",
+                "ctoOptions": "",
+                "storePickupLinkText": "Check availability",
+                "storePickupProductTitle": "Studio Display - Standard glass - Tilt-adjustable stand",
+                "pickupDisplay": "ineligible",
+                "pickupType": "In-Store Pickup"
+              }
+            },
+            "phoneNumber": "720-479 9451",
+            "pickupTypeAvailabilityText": "In-Store Pickup available at this location.",
+            "address": {
+              "address": "Apple Twenty Ninth Street",
+              "address3": null,
+              "address2": "1755 29th Street",
+              "postalCode": "80301"
+            },
+            "hoursUrl": "http://www.apple.com/retail/twentyninthstreet",
+            "directionsUrl": "http://www.apple.com/retail/twentyninthstreet",
+            "storeHours": {
+              "storeHoursText": "Store Hours",
+              "bopisPickupDays": "Days",
+              "bopisPickupHours": "Hours",
+              "hours": [
+                {
+                  "storeTimings": "11:00 AM-6:00 PM",
+                  "storeDays": "Sun:"
+                },
+                {
+                  "storeTimings": "10:00 AM-7:00 PM",
+                  "storeDays": "Mon-Sat:"
+                }
+              ]
+            },
+            "storelatitude": 40.01754,
+            "storelongitude": -105.25649,
+            "storedistance": 32.33,
+            "storeDistanceWithUnit": "32.33 mi",
+            "storeDistanceVoText": "32.33 mi from 80301",
+            "retailStore": {
+              "storeNumber": "R172",
+              "storeUniqueId": "R172",
+              "name": "Twenty Ninth Street",
+              "storeTypeKey": "1",
+              "storeSubTypeKey": "0",
+              "storeType": "APPLESTORE_DEFAULT",
+              "phoneNumber": "720-479 9451",
+              "email": "twentyninthstreet@apple.com",
+              "carrierCode": null,
+              "locationType": null,
+              "latitude": 40.01754,
+              "longitude": -105.25649,
+              "address": {
+                "city": "Boulder",
+                "companyName": "Apple Twenty Ninth Street",
+                "countryCode": "US",
+                "county": null,
+                "district": null,
+                "geoCode": null,
+                "label": null,
+                "languageCode": "US-EN",
+                "mailStop": null,
+                "postalCode": "80301",
+                "province": null,
+                "state": "CO",
+                "street": "1755 29th Street",
+                "street2": null,
+                "street3": null,
+                "suburb": null,
+                "type": "SHIPPING",
+                "addrSourceType": null,
+                "outsideCityFlag": null,
+                "daytimePhoneAreaCode": null,
+                "eveningPhoneAreaCode": null,
+                "daytimePhone": "720-479 9451",
+                "fullPhoneNumber": null,
+                "eveningPhone": null,
+                "emailAddress": null,
+                "firstName": null,
+                "lastName": null,
+                "suffix": null,
+                "lastNamePhonetic": null,
+                "firstNamePhonetic": null,
+                "title": null,
+                "businessAddress": false,
+                "uuid": "d2482290-4f4f-4f81-859e-ef6f4e755d5d",
+                "mobilePhone": null,
+                "mobilePhoneAreaCode": null,
+                "cityStateZip": null,
+                "daytimePhoneSelected": false,
+                "middleName": null,
+                "residenceStatus": null,
+                "moveInDate": null,
+                "subscriberId": null,
+                "locationType": null,
+                "carrierCode": null,
+                "metadata": {},
+                "verificationState": "UN_VERIFIED",
+                "expiration": null,
+                "markForDeletion": false,
+                "primaryAddress": false,
+                "fullEveningPhone": null,
+                "fullDaytimePhone": "720-479 9451",
+                "correctionResult": null,
+                "twoLineAddress": "1755 29th Street,\nBoulder, CO, 80301",
+                "addressVerified": false
+              },
+              "urlKey": null,
+              "directionsUrl": "http://www.apple.com/retail/twentyninthstreet",
+              "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R172.png?resize=828:*&output-format=jpg",
+              "makeReservationUrl": null,
+              "hoursAndInfoUrl": "http://www.apple.com/retail/twentyninthstreet",
+              "storeHours": [
+                {
+                  "storeDays": "Sun",
+                  "voStoreDays": "Sunday",
+                  "storeTimings": "11:00 AM-6:00 PM"
+                },
+                {
+                  "storeDays": "Mon-Sat",
+                  "voStoreDays": "Monday-Saturday",
+                  "storeTimings": "10:00 AM-7:00 PM"
+                }
+              ],
+              "storeHolidays": [],
+              "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R172.png?resize=828:*&output-format=jpg",
+              "distance": 32.33,
+              "distanceUnit": "mi",
+              "distanceWithUnit": "32.33 mi",
+              "timezone": "America/Denver",
+              "storeIsActive": true,
+              "lastUpdated": 0.0,
+              "lastFetched": 1654384240624,
+              "dateStamp": "04-Jun-2022",
+              "distanceSeparator": ".",
+              "nextAvailableDate": null,
+              "storeHolidayLookAheadWindow": 7,
+              "driveDistanceWithUnit": null,
+              "driveDistanceInMeters": null,
+              "dynamicAttributes": {},
+              "storePickupMethodByType": {
+                "INSTORE": {
+                  "type": "INSTORE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 40.01754,
+                    "lon": -105.25649
+                  },
+                  "typeDirection": {
+                    "directionByLocale": null
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": null
+                  }
+                }
+              },
+              "storeTimings": null,
+              "availableNow": true
+            },
+            "storelistnumber": 5,
+            "storeListNumber": 5,
+            "pickupOptionsDetails": {
+              "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+              "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+              "pickupOptions": [
+                {
+                  "pickupOptionTitle": "In-Store",
+                  "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                  "index": 1
+                }
+              ]
+            },
+            "rank": 5
+          },
+          {
+            "storeEmail": "briargate@apple.com",
+            "storeName": "The Promenade Shops at Briargate",
+            "reservationUrl": "http://www.apple.com/retail/thepromenadeshopsatbriargate",
+            "makeReservationUrl": "http://www.apple.com/retail/thepromenadeshopsatbriargate",
+            "state": "CO",
+            "storeImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R338.png?resize=828:*&output-format=jpg",
+            "country": "US",
+            "city": "Colorado Springs",
+            "storeNumber": "R338",
+            "partsAvailability": {
+              "MK0U3LL/A": {
+                "storePickEligible": true,
+                "storeSearchEnabled": true,
+                "storeSelectionEnabled": false,
+                "storePickupQuote": "Apple Store Pickup is currently unavailable",
+                "pickupSearchQuote": "Currently unavailable",
+                "storePickupLabel": "Pickup:",
+                "partNumber": "MK0U3LL/A",
+                "purchaseOption": "",
+                "ctoOptions": "",
+                "storePickupLinkText": "Check availability",
+                "storePickupProductTitle": "Studio Display - Standard glass - Tilt-adjustable stand",
+                "pickupDisplay": "ineligible",
+                "pickupType": "In-Store or Curbside Pickup"
+              }
+            },
+            "phoneNumber": "719-522 4460",
+            "pickupTypeAvailabilityText": "In-Store and Curbside Pickup available at this location.",
+            "address": {
+              "address": "Apple The Promenade Shops at Briargate",
+              "address3": "Suite 315",
+              "address2": "1685 Briargate Parkway",
+              "postalCode": "80920"
+            },
+            "hoursUrl": "http://www.apple.com/retail/thepromenadeshopsatbriargate",
+            "directionsUrl": "http://www.apple.com/retail/thepromenadeshopsatbriargate",
+            "storeHours": {
+              "storeHoursText": "Store Hours",
+              "bopisPickupDays": "Days",
+              "bopisPickupHours": "Hours",
+              "hours": [
+                {
+                  "storeTimings": "11:00 AM-6:00 PM",
+                  "storeDays": "Sun:"
+                },
+                {
+                  "storeTimings": "10:00 AM-9:00 PM",
+                  "storeDays": "Mon-Sat:"
+                }
+              ]
+            },
+            "storelatitude": 38.962692,
+            "storelongitude": -104.79529,
+            "storedistance": 47.02,
+            "storeDistanceWithUnit": "47.02 mi",
+            "storeDistanceVoText": "47.02 mi from 80920",
+            "retailStore": {
+              "storeNumber": "R338",
+              "storeUniqueId": "R338",
+              "name": "The Promenade Shops at Briargate",
+              "storeTypeKey": "1",
+              "storeSubTypeKey": "0",
+              "storeType": "APPLESTORE_DEFAULT",
+              "phoneNumber": "719-522 4460",
+              "email": "briargate@apple.com",
+              "carrierCode": null,
+              "locationType": null,
+              "latitude": 38.962692,
+              "longitude": -104.79529,
+              "address": {
+                "city": "Colorado Springs",
+                "companyName": "Apple The Promenade Shops at Briargate",
+                "countryCode": "US",
+                "county": null,
+                "district": null,
+                "geoCode": null,
+                "label": null,
+                "languageCode": "US-EN",
+                "mailStop": null,
+                "postalCode": "80920",
+                "province": null,
+                "state": "CO",
+                "street": "1685 Briargate Parkway",
+                "street2": "Suite 315",
+                "street3": null,
+                "suburb": null,
+                "type": "SHIPPING",
+                "addrSourceType": null,
+                "outsideCityFlag": null,
+                "daytimePhoneAreaCode": null,
+                "eveningPhoneAreaCode": null,
+                "daytimePhone": "719-522 4460",
+                "fullPhoneNumber": null,
+                "eveningPhone": null,
+                "emailAddress": null,
+                "firstName": null,
+                "lastName": null,
+                "suffix": null,
+                "lastNamePhonetic": null,
+                "firstNamePhonetic": null,
+                "title": null,
+                "businessAddress": false,
+                "uuid": "a776b5d5-0425-4cac-90d7-a16b54bc546a",
+                "mobilePhone": null,
+                "mobilePhoneAreaCode": null,
+                "cityStateZip": null,
+                "daytimePhoneSelected": false,
+                "middleName": null,
+                "residenceStatus": null,
+                "moveInDate": null,
+                "subscriberId": null,
+                "locationType": null,
+                "carrierCode": null,
+                "metadata": {},
+                "verificationState": "UN_VERIFIED",
+                "expiration": null,
+                "markForDeletion": false,
+                "primaryAddress": false,
+                "fullEveningPhone": null,
+                "fullDaytimePhone": "719-522 4460",
+                "correctionResult": null,
+                "twoLineAddress": "1685 Briargate Parkway, Suite 315,\nColorado Springs, CO, 80920",
+                "addressVerified": false
+              },
+              "urlKey": null,
+              "directionsUrl": "http://www.apple.com/retail/thepromenadeshopsatbriargate",
+              "storeImageUrl": "http://rtlimages.apple.com/cmc/dieter/store/4_3/R338.png?resize=828:*&output-format=jpg",
+              "makeReservationUrl": null,
+              "hoursAndInfoUrl": "http://www.apple.com/retail/thepromenadeshopsatbriargate",
+              "storeHours": [
+                {
+                  "storeDays": "Sun",
+                  "voStoreDays": "Sunday",
+                  "storeTimings": "11:00 AM-6:00 PM"
+                },
+                {
+                  "storeDays": "Mon-Sat",
+                  "voStoreDays": "Monday-Saturday",
+                  "storeTimings": "10:00 AM-9:00 PM"
+                }
+              ],
+              "storeHolidays": [],
+              "secureStoreImageUrl": "https://rtlimages.apple.com/cmc/dieter/store/4_3/R338.png?resize=828:*&output-format=jpg",
+              "distance": 47.02,
+              "distanceUnit": "mi",
+              "distanceWithUnit": "47.02 mi",
+              "timezone": "America/Denver",
+              "storeIsActive": true,
+              "lastUpdated": 0.0,
+              "lastFetched": 1654384240625,
+              "dateStamp": "04-Jun-2022",
+              "distanceSeparator": ".",
+              "nextAvailableDate": null,
+              "storeHolidayLookAheadWindow": 7,
+              "driveDistanceWithUnit": null,
+              "driveDistanceInMeters": null,
+              "dynamicAttributes": {},
+              "storePickupMethodByType": {
+                "CURBSIDE": {
+                  "type": "CURBSIDE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 38.96279,
+                    "lon": -104.79527
+                  },
+                  "typeDirection": {
+                    "directionByLocale": {
+                      "en_US": "When you arrive at The Promenade Shops at Briargate, proceed to the Apple Store. The curbside pickup location is located directly in front of the store."
+                    }
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": {
+                      "en_US": "When you arrive at The Promenade Shops at Briargate, proceed to the Apple Store. The curbside pickup location is located directly in front of the store."
+                    }
+                  }
+                },
+                "INSTORE": {
+                  "type": "INSTORE",
+                  "services": ["APU"],
+                  "typeCoordinate": {
+                    "lat": 38.962692,
+                    "lon": -104.79529
+                  },
+                  "typeDirection": {
+                    "directionByLocale": null
+                  },
+                  "typeMeetupLocation": {
+                    "meetingLocationByLocale": null
+                  }
+                }
+              },
+              "storeTimings": null,
+              "availableNow": true
+            },
+            "storelistnumber": 6,
+            "storeListNumber": 6,
+            "pickupOptionsDetails": {
+              "whatToExpectAtPickup": "<h4 class=\"as-pickupmethods-intro-header\">What to expect at pickup </h4><br /> We’ll email detailed pickup instructions when your order is ready. For new device setup, schedule a free online session with an Apple Specialist.",
+              "comparePickupOptionsLink": "<a href=\"https://www.apple.com/shop/shipping-pickup\" data-feature-name=\"Astro Link\" data-display-name=\"AOS: shop/shipping-pickup\" target=\"_blank\">Learn more about delivery <br />and pickup<span class=\"icon icon-after icon-chevronright\"></span><span class=\"visuallyhidden\">(Opens in a new window)</span></a>",
+              "pickupOptions": [
+                {
+                  "pickupOptionTitle": "In-Store",
+                  "pickupOptionDescription": "Pick up your online order. You may be able to get setup help and shop for accessories. Temperature checks and face masks may be required.",
+                  "index": 1
+                },
+                {
+                  "pickupOptionTitle": "Curbside",
+                  "pickupOptionDescription": "We’ll bring your online order to your vehicle.",
+                  "index": 2
+                }
+              ]
+            },
+            "rank": 6
+          }
+        ],
+        "overlayInitiatedFromWarmStart": false,
+        "viewMoreHoursLinkText": "View more hours",
+        "storesCount": "6 stores found near Denver, CO",
+        "little": false,
+        "location": "Denver, CO",
+        "notAvailableNearby": "Not available today at [X] nearest stores.",
+        "notAvailableNearOneStore": "Not available today at the nearest store.",
+        "warmDudeWithAPU": false,
+        "viewMoreHoursVoText": "(Opens in a new window)",
+        "availability": {
+          "isComingSoon": false
+        },
+        "viewDetailsText": "View details",
+        "availabilityStores": "R030,R047,R172,R182,R228,R338",
+        "legendLabelText": "Stores",
+        "filteredTopStore": false
+      },
+      "deliveryMessage": {
+        "geoLocated": false,
+        "MK0U3LL/A": {
+          "orderByDeliveryBy": "Ships:",
+          "orderByDeliveryBySuffix": "Delivers to <button class=\"rf-dude-quote-overlay-trigger as-delivery-overlay-trigger as-purchaseinfo-dudetrigger as-buttonlink\" data-autom=\"deliveryDateChecker\" data-ase-overlay=\"dude-overlay\" data-ase-click=\"show\">80021<span class=\"visuallyhidden\">(Get Delivery Dates)</span></button>",
+          "deliveryOptionMessages": [
+            {
+              "displayName": "8–10 weeks",
+              "inHomeSetup": "false",
+              "encodedUpperDateString": "20220816"
+            }
+          ],
+          "deliveryOptions": [
+            {
+              "displayName": "Express Delivery",
+              "date": "Aug 3 - Aug 17",
+              "shippingCost": "$8.00",
+              "additionalContent": null
+            },
+            {
+              "displayName": "Standard Delivery",
+              "date": "Aug 4 - Aug 18",
+              "shippingCost": "Free",
+              "additionalContent": null
+            }
+          ],
+          "promoMessage": "Free Shipping",
+          "address": {
+            "postalCode": "80021"
+          },
+          "showDeliveryOptionsLink": false,
+          "messageType": "Ship",
+          "basePartNumber": "MK0U3",
+          "commitCodeId": "800",
+          "dudeAttributes": {
+            "source": {
+              "cutoffFormat": "actualTime",
+              "leadByPickup": "false",
+              "templateId": "DUDE_APU_N",
+              "deliveryOrderSortBy": "speed"
+            },
+            "deliveryHeader": null,
+            "templateID": "DUDE_APU_N",
+            "resolvedLabel": "Ships:",
+            "shipMethodsDisplayOrder": ["E2"],
+            "fastestShipMethodPriceLabel": null,
+            "leadByPickup": "false"
+          },
+          "subHeader": "For Studio Display - Standard glass - Tilt-adjustable stand",
+          "inHomeSetup": false,
+          "defaultLocationEnabled": false,
+          "idl": false,
+          "isBuyable": true,
+          "isElectronic": false
+        },
+        "messageType": "regular",
+        "availableOptionsText": "Available Options",
+        "geoEnabled": true,
+        "dudeCookieSet": true,
+        "processing": "",
+        "contentloaded": "",
+        "locationCookieValueFoundForThisCountry": true,
+        "dudeLocated": true,
+        "accessibilityDeliveryOptions": "delivery options"
+      }
+    }
+  }
+}
