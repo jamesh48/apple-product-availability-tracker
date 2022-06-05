@@ -5,9 +5,7 @@ import { useGetStudioDisplayQuery } from "./app/services/productNotificationSlic
 
 const App = () => {
   const [currSearchProduct, setCurrSearchProduct] = useState("MK0U3LL/A");
-  const { data: storeProductAvailability } = useGetStudioDisplayQuery(currSearchProduct, {
-    pollingInterval: 45000,
-  });
+  const { data: storeProductAvailability } = useGetStudioDisplayQuery(currSearchProduct);
 
   const handleChange = (event) => {
     setCurrSearchProduct(event.target.value);
