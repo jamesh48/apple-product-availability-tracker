@@ -4,7 +4,8 @@ type AvailabilityResponse = { storeName: string; availabilityStatus: string; sta
 
 export const productNotificationSlice = createApi({
   reducerPath: "productNotifications",
-  baseQuery: fetchBaseQuery({ baseUrl: "https://appleproductavailabilitytracker.com" }),
+  // baseQuery: fetchBaseQuery({ baseUrl: "https://appleproductavailabilitytracker.com" }),
+  baseQuery: fetchBaseQuery({ baseUrl: "http://localhost:3001" }),
   endpoints: (builder) => ({
     getStudioDisplay: builder.query<AvailabilityResponse, string>({
       query: (productSku) => ({
